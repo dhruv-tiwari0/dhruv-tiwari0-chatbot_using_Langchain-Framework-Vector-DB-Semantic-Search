@@ -20,8 +20,7 @@ This Streamlit application allows users to upload PDF documents, process their t
 
 ## Installation
 
-1. Clone the repository: https://github.com/rishabh-jain26/pdf_chatbot_lanchain.git
-   cd chat-pdf-gemini
+1. Clone the repository: (https://github.com/dhruv-tiwari0/dhruv-tiwari0-chatbot_using_Langchain-Framework-Vector-DB-Semantic-Search.git)
 python -m venv venv
 source venv/bin/activate  # On Windows, use venv\Scripts\activate
 pip install -r requirements.txt
